@@ -5,4 +5,5 @@ using UnityEngine;
 public class PianoTile : MonoBehaviour
 {
     public int midiNote;
+
 }
